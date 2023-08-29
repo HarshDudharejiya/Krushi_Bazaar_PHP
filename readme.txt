@@ -1,4 +1,4 @@
-Smart Farming or 'Krishoker haat' provides a platform where 
+Smart Farming or 'Krushi Bazaar' provides a platform where 
 
 - users can buy/sell there products
 - users can rent/hire there equipments
