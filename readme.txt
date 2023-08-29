@@ -15,7 +15,3 @@ Python 3
 Flask web framework
 modules like scikit-learn,pandas,pickle
 it is recommended to use anaconda to run this model
-
-and some of the dataset taken from this- 
-
-https://github.com/omkarbuchade/Smart-agricultural-system
